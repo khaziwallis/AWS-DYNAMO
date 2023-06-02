@@ -1,0 +1,15 @@
+{
+    "Servers": {
+        "Keys": [
+            {
+                "id": {"S": "1"},
+                "price": {"N": "100"}
+            },
+            {
+                "id": {"S": "2"},
+                "price": {"N": "200"}
+            }
+        ],
+        "ProjectionExpression": "id,price,age"
+    }
+}

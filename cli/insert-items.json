@@ -1,0 +1,32 @@
+{
+    "Servers": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {"S": "5"},
+                    "price": {"N": "500"},
+                    "age": {"S": "50"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {"S": "6"},
+                    "price": {"N": "600"},
+                    "age": {"S": "60"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {"S": "7"},
+                    "price": {"N": "700"},
+                    "age": {"S": "70"},
+                    "name": {"S": "Server 70"}
+                }
+            }
+        }
+    ]
+}
