@@ -82,6 +82,5 @@ delete-table --table-name Servers
 ```
 
 
-## Reference ##
-
-https://docs.aws.amazon.com/cli/latest/reference/dynamodb/index.html#dynamodb
+## Batch Operations ##
+https://github.com/khaziwallis/AWS-DYNAMO/blob/master/cli/batch.md
