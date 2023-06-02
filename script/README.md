@@ -1,17 +1,23 @@
 ## Get Item ##
-done getItem
+Get Item [https://github.com/khaziwallis/AWS-DYNAMO/blob/master/script/getItem.js]
+
 ## Write Item ##
-done writeItem
+Write Item [https://github.com/khaziwallis/AWS-DYNAMO/blob/master/script/writeItem.js]
+
 ## Update Item ##
-done updateItem
+Update Item [https://github.com/khaziwallis/AWS-DYNAMO/blob/master/script/updateItem.js]
+
 ## Delete Item ##
-done deleteItem
+[https://github.com/khaziwallis/AWS-DYNAMO/blob/master/script/deleteAll.js]
 
 ## Get ALL ##
-done scanAll
-## Write Many ##
-done writeItems
-## Update Many ##
-done updateItems
+Read All Items [https://github.com/khaziwallis/AWS-DYNAMO/blob/master/script/scanAll.js]
+
+## Write Items ##
+Write Items [https://github.com/khaziwallis/AWS-DYNAMO/blob/master/script/writeItems.js]
+
+## Update Items ##
+Update Items [https://github.com/khaziwallis/AWS-DYNAMO/blob/master/script/updateItems.js]
+
 ## Delete All ##
-done deleteAll
+Delete All [https://github.com/khaziwallis/AWS-DYNAMO/blob/master/script/deleteAll.js]
